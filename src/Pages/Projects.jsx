@@ -1,9 +1,9 @@
 import React from 'react';
 import './Projects.css';
 
-import FED from '../assets/project2.png';
+import FED from '../assets/Project2.png';
 import leafImg from '../assets/project1.png';
-import Game from '../assets/project3.png';
+import Game from '../assets/Project3.png';
 
 const projects = [
   {
